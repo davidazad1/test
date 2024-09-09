@@ -1,3 +1,9 @@
+foods:
 pizza
 spagety
 idk
+
+movies:
+anime
+movie
+shoot
