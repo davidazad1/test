@@ -1,4 +1,10 @@
+foods:
 pizza
 spagety
 idk
 hello
+
+movies:
+anime
+movie
+shoot
